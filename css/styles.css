@@ -1,0 +1,17 @@
+.container {
+	margin:0 auto;
+	width:960px;
+	font-size: 100%;
+	line-height: 1.5;
+    background-color: #ddd;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+section {
+    border: 1px solid black;
+    background-color: white;
+}
